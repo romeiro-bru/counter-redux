@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(192, 160, 221);
+  color: #f8ccf7;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.counter {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 4rem;
+}
+
+.counter span {
+  margin: 0 1rem;
+  vertical-align: middle;
+}
+
+button {
+  padding: 0.3rem 0.8rem;
+  background-color: #8067a8;
+  color: #f1bbef;
+  border: none;
+  border-radius: 0.3rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
