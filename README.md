@@ -1,2 +1,3 @@
-# counter-redux
-Created with CodeSandbox
+# Counter Redux
+
+ > Simple counter using Redux.
